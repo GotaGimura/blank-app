@@ -1,0 +1,12 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key  # 適当な文字列を設定
+  name: some_cookie_name   # クッキー名を設定
+credentials:
+  usernames:
+    kkimura:
+      email: tennessine.ts.117@gmail.com
+      first_name: Kota
+      last_name: Kimura
+      password: 2609  # プレーンテキスト。自動的にハッシュ化される
+  
